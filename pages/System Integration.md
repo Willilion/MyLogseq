@@ -1,0 +1,9 @@
+- 方案
+	- 综合布线
+	- 视频监控
+		- IPC（网络摄像机）
+			- ![2021_11_27_IPC结构.jpg](https://cdn.logseq.com/%2Fdcafa556-6d44-4a97-9839-ee6d4a66fb69bdb1aed6-2f82-46d4-a486-a9fc5bff0f4b2021_11_27_IPC%E7%BB%93%E6%9E%84.jpg?Expires=4791624508&Signature=E-~G8N2IaYpDTMre9NxnYO49tqffBuRqy~ATCJWE01dRlLiYIzhmBuH6RJGM9m0IqDvt5m~087nv1sC3dS1SaeND7ClBSTrYnlaXW9czWh199RLwcxkxllNgZmTAnWwyDKUx30AuATVbQY-7jwfBB2rv486-ne1c7Lfa5FVUlkq4eyW8~bg-63kbR7q1sjFjSR5kTrLfLPqXWftdMJICv1DXls5cMjjUs1rOpMMFsbT58pBdT4lhIljrjiKRcF1-sV0VOMjJzLFPMOKtbXLx1jrcGY56pVtxuxlwGNIvd7SkgzPFs4XHfK10pQiusXfwM9yFMxIjZc~mzhIns7o3uQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+	- 机房
+	- 网络
+	- 门禁消防
+- 投标
