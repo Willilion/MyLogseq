@@ -1,9 +1,77 @@
 - 方案
 	- 综合布线
 	- 视频监控
-		- IPC（网络摄像机）
-			- ![2021_11_27_IPC结构.jpg](https://cdn.logseq.com/%2Fdcafa556-6d44-4a97-9839-ee6d4a66fb69bdb1aed6-2f82-46d4-a486-a9fc5bff0f4b2021_11_27_IPC%E7%BB%93%E6%9E%84.jpg?Expires=4791624508&Signature=E-~G8N2IaYpDTMre9NxnYO49tqffBuRqy~ATCJWE01dRlLiYIzhmBuH6RJGM9m0IqDvt5m~087nv1sC3dS1SaeND7ClBSTrYnlaXW9czWh199RLwcxkxllNgZmTAnWwyDKUx30AuATVbQY-7jwfBB2rv486-ne1c7Lfa5FVUlkq4eyW8~bg-63kbR7q1sjFjSR5kTrLfLPqXWftdMJICv1DXls5cMjjUs1rOpMMFsbT58pBdT4lhIljrjiKRcF1-sV0VOMjJzLFPMOKtbXLx1jrcGY56pVtxuxlwGNIvd7SkgzPFs4XHfK10pQiusXfwM9yFMxIjZc~mzhIns7o3uQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- 监控拓扑
+			- [[IPC]]（网络摄像机）
+				- 参需
+					- 样型
+						- 枪机
+						- 球机
+					- 焦段
+						- 定焦 
+						  |焦段|最佳距离|场景|
+						  |2.8mm|<3m| 电梯、楼梯|
+						  |4mm|3-5m|会议室|
+						  |6mm|5-10m|小型超市、大厅、大堂、停车场|
+						  |8mm|10-20m|车间、庭院、道路|
+						  |12mm|20-30m|室外|
+							- 电动变焦
+					- 分辨率
+					- 取流路数
+					- 补光距离
+					- 检测功能
+					- 本地存储
+					- 备电
+					- 防雷
+						- 感应雷
+						- 直击雷
+							- 电网防雷器
+					- 安装
+						- 墙架
+						- 立杆
+				- 认证
+					- [[公安部型式检验报告证明]]
+			- 网络设备
+				- 交换
+					- 交换机
+					- 交换群组
+				- 传输
+					- 有线
+						- 双绞线
+						- 光纤
+						- HDMI
+					- 无线
+						- 网桥
+				- 网络管理
+					- MAC
+					- IP
+					- ARP
+			- 服务管理群
+				- **NVR **
+					- 存储
+					- 解码（低容解码）
+					- 管理
+				- 解码服务器
+				- 管理服务器
+				- NVR群组
+				- 流媒体服务器
+				- 路由
+			- 终端
 	- 机房
 	- 网络
 	- 门禁消防
 - 投标
+	- 前期调研
+		- 规划监控点位分布
+		- 客户现场网络及布线环境
+		- 存储时长
+		- 显示
+	- 整理分析
+		- 整理需求
+		- 选择方案
+		- 计算报价
+	- 生成方案
+	- 汇报方案
+		- 讲解方案
+		- 报价
+		-
